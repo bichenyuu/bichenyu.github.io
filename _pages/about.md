@@ -8,7 +8,7 @@ redirect_from:
 --- 
 **Hello and welcome to my Homepage!**
 
-I'm Chenyu Bi, a second-year M.S. student in Biostatistics at the University of Pennsylvania (Penn). Before joining Penn, I received my B.S. in Applied Statistics from the School of Statistics at Renmin University of China (RUC).
+I'm Chenyu Bi, a second-year M.S. student in Biostatistics at the University of Pennsylvania. Previously, I received my B.S. in Applied Statistics from the School of Statistics, Renmin University of China ([RUC](https://en.ruc.edu.cn)).
 
 
 A data-driven personal website
