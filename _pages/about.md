@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
-
-# Welcome!
-
-I am **Chenyu (Bradley) Bi**, a second-year M.S. student in Biostatistics at the University of Pennsylvania.
+--- 
+I’m a second-year M.S. student in Biostatistics at the University of Pennsylvania (Penn). Previously, I completed my undergraduate study at the School of Statistics, Renmin University of China (RUC), majoring in Applied Statistics.
 
 My research lies at the intersection of **statistical machine learning**, **Bayesian optimization**, **protein engineering**, **trustworthy AI**, and **electronic health records (EHR)**.
 
