@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Chenyu Bi"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Student in Biostatistics at the University of Pennsylvania"
+  bio              : "M.S. Student in Biostatistics at Penn"
   location         : "Philadelphia, PA"
-  employer         : # ""
+  employer         : "University of Pennsylvania"
   uri              : # URL
   email            : "Bradley.Bi@PennMedicine.upenn.edu" 
 
