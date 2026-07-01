@@ -1,16 +1,29 @@
-# About Me
+---
+permalink: /
+title: "About"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
-I am Chenyu (Bradley) Bi, a second-year M.S. student in Biostatistics at the University of Pennsylvania.
+# Welcome!
 
-My research interests include
+I am **Chenyu (Bradley) Bi**, a second-year M.S. student in Biostatistics at the University of Pennsylvania.
 
-- Statistical Machine Learning
-- Bayesian Optimization
-- Protein Engineering
-- Trustworthy AI
-- Electronic Health Records
+My research lies at the intersection of **statistical machine learning**, **Bayesian optimization**, **protein engineering**, **trustworthy AI**, and **electronic health records (EHR)**.
 
-I am currently working with Prof. Jinbo Chen on statistical machine learning methods for biomedical applications.
+Currently, I am fortunate to work with **Prof. Jinbo Chen** in the Department of Biostatistics, Epidemiology and Informatics at Penn.
+
+My recent research focuses on:
+
+- Bayesian optimization for protein design
+- Statistical machine learning
+- Synthetic healthcare data generation
+- Fairness and trustworthy AI
+- Clinical risk prediction using EHR
+
+I am broadly interested in developing statistically principled machine learning methods for biomedical applications.
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
