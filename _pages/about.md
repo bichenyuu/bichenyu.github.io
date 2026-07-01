@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I’m a second-year M.S. student in Biostatistics at the University of Pennsylvania (Penn). Previously, I completed my undergraduate study at the School of Statistics, Renmin University of China (RUC), majoring in Applied Statistics.
+Hello and welcome!
+
+I'm Chenyu Bi, a second-year M.S. student in Biostatistics at the University of Pennsylvania (Penn). Prior to Penn, I earned my B.S. in Applied Statistics from the School of Statistics at Renmin University of China (RUC).
 
 My research lies at the intersection of **statistical machine learning**, **Bayesian optimization**, **protein engineering**, **trustworthy AI**, and **electronic health records (EHR)**.
 
