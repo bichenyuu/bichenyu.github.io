@@ -11,15 +11,7 @@
   <div class="pub-content">
 
     <h3 class="pub-title">
-      {% if pub.paperurl %}
-        <a href="{{ pub.paperurl }}" target="_blank" rel="noopener">
-          {{ pub.title }}
-        </a>
-      {% else %}
-        <a href="{{ pub.url | relative_url }}">
-          {{ pub.title }}
-        </a>
-      {% endif %}
+      {{ pub.title }}
     </h3>
 
     {% if pub.authors %}
