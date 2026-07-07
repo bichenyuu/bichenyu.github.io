@@ -11,7 +11,7 @@ description: >
 
 paperurl: "/files/two-stage-risk-prediction.pdf"
 poster: ""
-slides: ""
+slides: "/slides/Two_Stage_Modeling_HighD.pptx"
 
 image: "/images/publications/two-stage.png"
 ---
