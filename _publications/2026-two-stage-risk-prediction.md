@@ -12,8 +12,6 @@ description: >
   clinical risk prediction.
 
 paperurl: "/files/two-stage-risk-prediction.pdf"
-code: ""
-project: ""
 poster: ""
 slides: ""
 
