@@ -1,0 +1,81 @@
+{% assign pub = include.post %}
+
+<div class="pub-card">
+
+  {% if pub.image %}
+    <div class="pub-image">
+      <img src="{{ pub.image | relative_url }}" alt="{{ pub.title }}">
+    </div>
+  {% endif %}
+
+  <div class="pub-content">
+
+    <h3 class="pub-title">
+      {% if pub.paperurl %}
+        <a href="{{ pub.paperurl }}" target="_blank" rel="noopener">
+          {{ pub.title }}
+        </a>
+      {% else %}
+        <a href="{{ pub.url | relative_url }}">
+          {{ pub.title }}
+        </a>
+      {% endif %}
+    </h3>
+
+    {% if pub.authors %}
+      <div class="pub-authors">
+        {{ pub.authors | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% endif %}
+
+    {% if pub.venue %}
+      <div class="pub-venue">
+        {{ pub.venue | markdownify | remove: '<p>' | remove: '</p>' }}
+      </div>
+    {% elsif pub.venue_name %}
+      <div class="pub-venue">
+        {{ pub.venue_name }}
+      </div>
+    {% endif %}
+
+    {% if pub.description %}
+      <div class="pub-description">
+        {{ pub.description | markdownify }}
+      </div>
+    {% elsif pub.excerpt %}
+      <div class="pub-description">
+        {{ pub.excerpt }}
+      </div>
+    {% endif %}
+
+    <div class="pub-links">
+
+      {% if pub.paperurl %}
+        <a href="{{ pub.paperurl }}" target="_blank" rel="noopener">Paper</a>
+      {% endif %}
+
+      {% if pub.preprint %}
+        <a href="{{ pub.preprint }}" target="_blank" rel="noopener">Preprint</a>
+      {% endif %}
+
+      {% if pub.code %}
+        <a href="{{ pub.code }}" target="_blank" rel="noopener">Code</a>
+      {% endif %}
+
+      {% if pub.project %}
+        <a href="{{ pub.project }}" target="_blank" rel="noopener">Project</a>
+      {% endif %}
+
+      {% if pub.poster %}
+        <a href="{{ pub.poster }}" target="_blank" rel="noopener">Poster</a>
+      {% endif %}
+
+      {% if pub.slides %}
+        <a href="{{ pub.slides }}" target="_blank" rel="noopener">Slides</a>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</div>
