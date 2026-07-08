@@ -11,7 +11,7 @@ description: >
 
 paperurl: "/files/two-stage-risk-prediction.pdf"
 poster: ""
-slides: "https://bichenyuu.github.io/files/Two_Stage_Modeling_HighD.pptx"
+slides: "https://bichenyuu.github.io/files/Two_Stage_Modeling_HighD.pdf"
 
 image: "/images/publications/two-stage.png"
 ---
