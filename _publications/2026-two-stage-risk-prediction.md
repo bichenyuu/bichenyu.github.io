@@ -7,10 +7,10 @@ authors: "Jill S. Hasler<sup>†</sup>, **Chenyu Bi<sup>†</sup>**, Changcheng 
 venue: "Under Review, 2026"
 
 description: >
-  We.
+  A two-stage framework that integrates high-dimensional EHR data with partially observed external variables for risk prediction.
 
-paperurl: "/files/Two_Stage_Modeling_HighD.pdf"
 slides: "/files/Two_Stage_Modeling_HighD.pdf"
+poster: ""
 
 
 image: "/images/publications/two-stage.png"
