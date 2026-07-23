@@ -9,8 +9,8 @@ venue: "Under Review, 2026"
 description: >
   A two-stage framework that integrates high-dimensional EHR data with partially observed external variables for risk prediction.
 
-slides: "/files/Two_Stage_Modeling_HighD.pdf"
-poster: ""
+slides: "/files/Slides_Two_Stage_Modeling_HighD.pdf"
+poster: "/files/JSM_Poster_Two_Stage_Modeling_HighD.pdf"
 
 
 image: "/images/publications/two-stage.png"
